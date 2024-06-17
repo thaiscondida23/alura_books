@@ -3,3 +3,14 @@
   color: var(--branco):
   text-align: center;
   padding: 2.5cm 2em;
+}
+
+.banner-titulo{
+ font-size:18;
+  font weight:700;
+  }
+
+  .banner-texto{
+    font-weight:500;
+    margem: 1em 0;
+  }
