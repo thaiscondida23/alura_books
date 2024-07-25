@@ -10,4 +10,19 @@
 
 .swiper-slide img {
   width: 100% ;
+
   
+  
+.swiper-button-prev,
+.swiper-button-next {
+    display: none;
+}
+
+
+.swiper-pagination {
+    position: initial;
+    margin: .5em 0;
+}
+
+
+https://github.com/giullianacestari/alura-books/blob/aula10/styles/carrossel.css
