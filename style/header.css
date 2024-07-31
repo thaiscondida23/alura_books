@@ -28,6 +28,7 @@
   display:none;
   position:absolute;
   top: 100%;
+  widht:60vw;
 }
 
 .container_botao:checked~.lista-menu{
