@@ -64,3 +64,24 @@
     font-size: 14px;
   }
   
+
+.botoes__ancora {
+  backgrund-color: var(--laranja);
+  padding: 1em 2.2em;
+  color: var(--branco);
+  font-weight: 700;
+  text-decoration:none;
+}
+
+.botoes-item{
+  margin:0 0.5em
+}
+  hr{
+    margin:0
+  }
+
+
+.rodape{
+  background-color:var(--branco);
+  padding: 1em;
+}
